@@ -1,1 +1,1 @@
-To optimize a marketing campaigns to increase website of an imaginary company, using touch attribution I’ve mapped customers’ journey: from initial visit to purchase.
+To optimize some marketing campaigns of an imaginary company, using "touch attribution", in this project I’ve mapped customers’ journey: from initial visit to purchase.
